@@ -1,0 +1,232 @@
+/* Media Query for desktop devices*/
+
+@media screen and (min-width: 768px) and (max-width: 1440px) {
+
+body {
+    background-color:   #FAFAFA;
+    font-family: 'Karla', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    color: hsl(234, 12%, 34%);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+/* Text content section styling */
+
+p {
+    font-weight: 200;
+}
+
+.txt-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.txt-container {
+    width: 340px;
+    line-height: 10px;
+    text-align: center;
+    margin: 20px;
+}
+
+.first-title {
+    font-weight: 200;
+}
+
+.text {
+    font-size: x-small;
+    line-height: 20px;
+}
+
+/* Cards section styling */
+
+.cards-box {
+    display: flex;
+    justify-content: center;
+}
+
+/* Cards styling */
+
+.supervisor, .team-builder, .karma, .calculator {
+    background-color: white;
+    width: 200px;
+    height: 140px;
+    margin: 10px;
+    padding-top: 0;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-top-style: solid;
+    border-top-width: 2px;
+    border-radius: 4px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Cards Border-top colors styling */
+
+.supervisor {
+    border-top-color: hsl(180, 62%, 55%);
+    margin-top: 80px;
+
+}
+
+.team-builder {
+    border-top-color: hsl(0, 78%, 62%);
+}
+
+.karma {
+    border-top-color: hsl(34, 97%, 64%);
+    margin-top: 20px;
+}
+
+.calculator {
+    border-top-color: hsl(212, 86%, 64%);
+    margin-top: 80px;
+}
+
+/* Cards titles formating */
+
+.supervisor-title, .team-builder-title, .karma-title, .calculator-title {
+    margin-top: 15px;
+    margin-bottom: 0;
+}
+
+/* Cards text formating */
+
+.supervisor-txt, .team-builder-txt, .karma-txt, .calculator-txt {
+    font-size: x-small;
+    margin-top: 5px;
+    padding-right: 20px;
+    color: grey;
+}
+
+/* Cards images styling */
+
+.supervisor-img, .team-builder-img, .karma-img, .calculator-img {
+    width: 40px;
+    padding-left: 150px;
+    padding-top: 20px;
+}
+
+}
+
+/*Media Query for mobile devices*/
+
+@media screen and (min-width: 375px) and (max-width: 767px) {
+ 
+    
+body {
+    background-color:   #FAFAFA;
+    font-family: 'Karla', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    color: hsl(234, 12%, 34%);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+/* Text content section styling */
+
+p {
+    font-weight: 200;
+}
+
+.txt-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.txt-container {
+    width: 240px;
+    line-height: 15px;
+    text-align: center;
+    margin: 20px;
+}
+
+.first-title {
+    font-weight: 200;
+    font-size: large;
+}
+
+.sec-title {
+    font-size: large;
+}
+
+.text {
+    font-size: smaller;
+    line-height: 20px;
+}
+
+/* Cards section styling */
+
+.cards-box {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+/* Cards styling */
+
+.supervisor, .team-builder, .karma, .calculator {
+    background-color: white;
+    width: 200px;
+    height: 140px;
+    margin: 10px;
+    padding-top: 0;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-top-style: solid;
+    border-top-width: 2px;
+    border-radius: 4px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Cards Border-top colors styling */
+
+.supervisor {
+    border-top-color: hsl(180, 62%, 55%);
+
+}
+
+.team-builder {
+    border-top-color: hsl(0, 78%, 62%);
+}
+
+.karma {
+    border-top-color: hsl(34, 97%, 64%);
+    margin-top: 20px;
+}
+
+.calculator {
+    border-top-color: hsl(212, 86%, 64%);
+}
+
+/* Cards titles formating */
+
+.supervisor-title, .team-builder-title, .karma-title, .calculator-title {
+    margin-top: 15px;
+    margin-bottom: 0;
+}
+
+/* Cards text formating */
+
+.supervisor-txt, .team-builder-txt, .karma-txt, .calculator-txt {
+    font-size: x-small;
+    margin-top: 5px;
+    padding-right: 20px;
+    color: grey;
+}
+
+/* Cards images styling */
+
+.supervisor-img, .team-builder-img, .karma-img, .calculator-img {
+    width: 40px;
+    padding-left: 150px;
+    padding-top: 20px;
+}
+
+}
