@@ -1,4 +1,4 @@
-# Four card feature section master
+# Four card feature section
 
 This is my second project from **Frontend Mentor**, using **HTML** and **CSS**.
 
