@@ -1,14 +1,17 @@
 # Four card feature section
 
-This is my second project from **Frontend Mentor**, using **HTML** and **CSS**.
+Esse é meu srgundo projeto do site **Frontend Mentor**, cujo objetivo é criar uma sessão com quatro cards.
+Esse projeto faz parte de um desafio com 5 mini projetos do site [Dev Por aí](https://devporai.com.br/5-projetos-frontend-para-melhorar-suas-habilidades/).
 
-* Check the challenge [URL](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK).
+- O intuito é melhorar minhas habilidades com **HTML***, **CSS**, Flexbox e responsividade.
 
-## Final results:
+* Cheque o site deste desafio do [Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK).
 
-<div>
-  <img src="https://raw.githubusercontent.com/anacrispee/four-card-feature-section-master/main/images/mobile-version.png" alt="Mobile version" width="200px">
-  <img src="https://raw.githubusercontent.com/anacrispee/four-card-feature-section-master/main/images/desktop-version.png" alt="Desktop version" width="400px">
-</div>
+## Resultados finais:
 
 https://anacrispee.github.io/four-card-feature-section/
+
+📩 Se você tem observações e/ou sugestões sobre esse projeto, por favor entre em contato. Vou ter o prazer de te ouvir!
+<div>
+  <a href = "mailto:anacrispee@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
