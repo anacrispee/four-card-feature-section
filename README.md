@@ -3,7 +3,7 @@
 Esse é meu srgundo projeto do site **Frontend Mentor**, cujo objetivo é criar uma sessão com quatro cards.
 Esse projeto faz parte de um desafio com 5 mini projetos do site [Dev Por aí](https://devporai.com.br/5-projetos-frontend-para-melhorar-suas-habilidades/).
 
-- O intuito é melhorar minhas habilidades com **HTML***, **CSS**, Flexbox e responsividade.
+- O intuito é melhorar minhas habilidades com **HTML**, **CSS**, Flexbox e responsividade.
 
 * Cheque o site deste desafio do [Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK).
 
